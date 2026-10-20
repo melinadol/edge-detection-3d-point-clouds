@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Edge Detection in 3D Point Clouds Using Digital Images"
+authors:
+  - family-names: Dolapsaki
+    given-names: Maria Melina
+license: MIT
+preferred-citation:
+  type: article
+  title: "Edge Detection in 3D Point Clouds Using Digital Images"
+  authors:
+    - family-names: Dolapsaki
+      given-names: Maria Melina
+    - family-names: Georgopoulos
+      given-names: Andreas
+  journal: "ISPRS International Journal of Geo-Information"
+  volume: 10
+  issue: 4
+  start: 229
+  year: 2021
+  doi: 10.3390/ijgi10040229
